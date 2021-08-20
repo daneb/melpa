@@ -1,0 +1,1 @@
+(php-codesniffer :repo "squizlabs/PHP_CodeSniffer" :fetcher github)
